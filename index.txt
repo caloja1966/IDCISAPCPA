@@ -1,1 +1,2 @@
 Linea1. Inicia la prueba
+Linea2. Agregada en local y solo master
